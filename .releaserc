@@ -12,7 +12,7 @@
             }
         ],
         [
-          "@ambimax/semantic-release-composer",
+          "@iwavesmedia/semantic-release-composer",
           {
             "skipOnMissingComposerJson": true
           }

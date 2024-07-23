@@ -1,6 +1,5 @@
 {
   "devDependencies": {
-    "@ambimax/semantic-release-composer": "github:ambimax/semantic-release-composer#v1.0.2",
     "@iwavesmedia/semantic-release-composer": "^1.0.0"
   }
 }

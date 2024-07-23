@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/meggernet/semverTest/compare/v1.1.0...v1.2.0) (2024-07-23)
+
+
+### Features
+
+* use another package ([aa64928](https://github.com/meggernet/semverTest/commit/aa649281bb3c0864665e1182f4c13a246ea79409))
+
 # [1.1.0](https://github.com/meggernet/semverTest/compare/v1.0.0...v1.1.0) (2024-07-23)
 
 

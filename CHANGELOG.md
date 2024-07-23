@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/meggernet/semverTest/compare/v1.2.0...v1.2.1) (2024-07-23)
+
+
+### Bug Fixes
+
+* something ([53d2e97](https://github.com/meggernet/semverTest/commit/53d2e97b6c58dacdad0c5e782bba0a6624736eee))
+
 # [1.2.0](https://github.com/meggernet/semverTest/compare/v1.1.0...v1.2.0) (2024-07-23)
 
 

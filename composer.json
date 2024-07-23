@@ -1,0 +1,23 @@
+{
+    "name": "meggernet/semver-test",
+    "description": "This is a test repo",
+    "type": "project",
+    "require": {
+        "composer-runtime-api": "^2.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Meggernet\\SemverTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tobias Lueckel",
+            "email": "lueckel@tobias-lueckel.de"
+        }
+    ]
+}
